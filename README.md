@@ -10,10 +10,6 @@ A simple, responsive web app that delivers random motivational quotes with a smo
 - ⚡ Smooth transitions & subtle animations
 - 💻 Built for beginners practicing frontend skills
 
-## 📸 Screenshot
-
-![App Screenshot](./screenshot.png)
-
 ## 🚀 Live Demo
 
 Check it out here: [[https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)](https://motivationgeneratorchels.netlify.app)
