@@ -19,6 +19,3 @@ Check it out here: [[https://your-netlify-link.netlify.app](https://your-netlify
 - HTML5
 - CSS3 (Flexbox & media queries)
 - JavaScript (DOM manipulation)
-
-## 📂 Folder Structure
-
